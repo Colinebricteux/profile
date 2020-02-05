@@ -1,0 +1,88 @@
+
+h1 {
+    color: #994E35;
+    font-size: 32px;
+    font-weight: 900;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    color: #994E35;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    color: #DF9A57;
+    font-size: 15px;
+    font-weight: lighter;
+    font-family: 'Lato', sans-serif;
+}
+
+li {
+    display:inline;
+}
+
+body {
+    background-color: #FFFAF0;
+}
+
+div {
+    display: block;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.card {
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px 30px;
+    padding-bottom: 20px;
+    box-shadow: 2px 4px 10px #DCDCDC;
+    margin: 20px 0;
+}
+
+#profile-pic {
+    width: 200px;
+    border-radius: 40px;
+}
+
+.btn-orange {
+    text-decoration: none;
+    background-color: #DF9A57;
+    color: #FCDE9C;
+    padding: 8px;
+    border-radius: 7px;
+}
+
+.btn-orange:hover {
+    color: #994E35;
+    box-shadow: 2px 4px 10px #DCDCDC;
+}
+
+.icone {
+    color: #994E35;
+}
+
+.icone:hover {
+    color: #DF9A57;
+}
+
+.container {
+    margin: 20px auto;
+    width: 400px;
+}
+
+
+
+
